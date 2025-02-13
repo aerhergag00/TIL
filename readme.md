@@ -8,6 +8,7 @@
 <details open>
 <summary>2025년 2월 </summary>
 
+- [2025-02-12] [N+1](JPA/N+1.md)
 - [2025-02-12] [HTTP_Method](WEB/HTTP_Method.md)
 - [2025-02-11] [JPA 영속성 컨텍스트](JPA/JPA_영속성_컨텍스트.md)
 
@@ -17,7 +18,8 @@
 
 ### Categories 
 
-#### DB
+#### JPA
+- [N+1](JPA/N+1.md)
 - [JPA 영속성 컨텍스트](JPA/JPA_영속성_컨텍스트.md)
 
 #### WEB
