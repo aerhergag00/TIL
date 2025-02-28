@@ -8,6 +8,7 @@
 <details open>
 <summary>2025년 2월 </summary>
 
+- [2025-02-28] [caching 전략](DB/caching%20전략.md)
 - [2025-02-27] [inMemoryDB](DB/inMemory%20저장소.md)
 - [2025-02-12] [N+1](JPA/N+1.md)
 - [2025-02-12] [HTTP_Method](WEB/HTTP_Method.md)
@@ -27,7 +28,7 @@
 - [HTTP_Method](WEB/HTTP_Method.md)
 
 #### DB
-
+- [caching 전략](DB/caching%20전략.md)
 - [inMemoryDB](DB/inMemory%20저장소.md)
 ---
 
