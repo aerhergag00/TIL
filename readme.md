@@ -6,6 +6,10 @@
 ### Recently Updated
 
 <details open>
+<summary>2025년 3월 </summary>
+
+- [2025-03-01] [index](DB/index.md)
+
 <summary>2025년 2월 </summary>
 
 - [2025-02-28] [caching 전략](DB/caching%20전략.md)
@@ -28,6 +32,7 @@
 - [HTTP_Method](WEB/HTTP_Method.md)
 
 #### DB
+- [index](DB/index.md)
 - [caching 전략](DB/caching%20전략.md)
 - [inMemoryDB](DB/inMemory%20저장소.md)
 ---
