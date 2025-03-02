@@ -10,6 +10,10 @@
 
 - [2025-03-01] [index](DB/index.md)
 
+</details>
+
+
+<details open>
 <summary>2025년 2월 </summary>
 
 - [2025-02-28] [caching 전략](DB/caching%20전략.md)
