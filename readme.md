@@ -8,6 +8,7 @@
 <details open>
 <summary>2025년 3월 </summary>
 
+- [2025-03-08] [Lock-1](DB/Lock-1.md)
 - [2025-03-02] [dispatcherservlet-1](SPRING/dispatcher%20servlet-1.md)
 - [2025-03-01] [index](DB/index.md)
 
@@ -32,6 +33,7 @@
 - [HTTP_Method](WEB/HTTP_Method.md)
 
 #### DB
+- [Lock-1](DB/Lock-1.md)
 - [index](DB/index.md)
 - [caching 전략](DB/caching%20전략.md)
 - [inMemoryDB](DB/inMemory%20저장소.md)
